@@ -72,7 +72,7 @@ Here is our visual **9-step guide** to safely download, bypass protection, and r
 Click on the download link in the official [Releases](https://github.com/Jnyananjan/techy_pad/releases) section. Your browser (Chrome or Edge) will start downloading `TechyPad-Setup-1.0.0.exe`. Wait for the download progress bar to complete.
 
 <p align="center">
-  <img src="./assets/screenshots/step1.png" alt="Step 1: Start the Download" width="600" />
+  <img src="./assets/screenshots/step1.jpg" alt="Step 1: Start the Download" width="600" />
   <br><em>Step 1: Wait for the installer download progress bar to finish.</em>
 </p>
 
@@ -81,7 +81,7 @@ Once completed, the browser will pause the save process and flag the file as unc
 > ⚠️ *`TechyPad-Setup-1.0.0.exe isn't commonly downloaded. Make sure you trust TechyPad-Setup-1.0.0.exe before you open it.`*
 
 <p align="center">
-  <img src="./assets/screenshots/step2.png" alt="Step 2: Note the Browser Block" width="600" />
+  <img src="./assets/screenshots/step2.jpg" alt="Step 2: Note the Browser Block" width="600" />
   <br><em>Step 2: Browser flags the unrecognized file with a security warning.</em>
 </p>
 
@@ -89,7 +89,7 @@ Once completed, the browser will pause the save process and flag the file as unc
 Hover your mouse over the blocked item card in your browser's Downloads list. Click on the **three dots menu (`...`)** button (displays the **"More actions"** tooltip).
 
 <p align="center">
-  <img src="./assets/screenshots/step3.png" alt="Step 3: Click More actions" width="600" />
+  <img src="./assets/screenshots/step3.jpg" alt="Step 3: Click More actions" width="600" />
   <br><em>Step 3: Hover over the blocked file card and click the three dots icon.</em>
 </p>
 
@@ -97,7 +97,7 @@ Hover your mouse over the blocked item card in your browser's Downloads list. Cl
 In the dropdown options menu (`Delete`, `Keep`, `Report this file as safe`, `Learn more`, `Copy download link`), click on **"Keep"**.
 
 <p align="center">
-  <img src="./assets/screenshots/step4.png" alt="Step 4: Select Keep" width="600" />
+  <img src="./assets/screenshots/step4.jpg" alt="Step 4: Select Keep" width="600" />
   <br><em>Step 4: Click the Keep option in the context dropdown menu.</em>
 </p>
 
@@ -105,7 +105,7 @@ In the dropdown options menu (`Delete`, `Keep`, `Report this file as safe`, `Lea
 A secondary safety warning dialogue box will appear with the header *"Make sure you trust TechyPad-Setup-1.0.0.exe before you open it"*. It states that Microsoft Defender SmartScreen couldn't verify the file and shows details like "Publisher: Unknown", next to a closed white **"Delete"** button with a down arrow.
 
 <p align="center">
-  <img src="./assets/screenshots/step5.png" alt="Step 5: The Safety Warnings Dialog" width="600" />
+  <img src="./assets/screenshots/step5.jpg" alt="Step 5: The Safety Warnings Dialog" width="600" />
   <br><em>Step 5: Review the Microsoft Defender SmartScreen warning dialog.</em>
 </p>
 
@@ -113,7 +113,7 @@ A secondary safety warning dialogue box will appear with the header *"Make sure 
 Click the small **down arrow (`v`)** situated on the right side of the white **"Delete"** button to expand its submenu. In the expanded list, click on **"Keep anyway"**.
 
 <p align="center">
-  <img src="./assets/screenshots/step6.png" alt="Step 6: Expand Delete and Select Keep anyway" width="600" />
+  <img src="./assets/screenshots/step6.jpg" alt="Step 6: Expand Delete and Select Keep anyway" width="600" />
   <br><em>Step 6: Expand the Delete button options and choose 'Keep anyway' to override the warning.</em>
 </p>
 
@@ -121,7 +121,7 @@ Click the small **down arrow (`v`)** situated on the right side of the white **"
 The browser will instantly finalize the file save. The download card will now update and show **"Open file"** directly below `TechyPad-Setup-1.0.0.exe`. Click on **"Open file"** to launch the installer on your computer!
 
 <p align="center">
-  <img src="./assets/screenshots/step7.png" alt="Step 7: Finalize and Open File" width="600" />
+  <img src="./assets/screenshots/step7.jpg" alt="Step 7: Finalize and Open File" width="600" />
   <br><em>Step 7: The download is successful; click 'Open file' to run the setup.</em>
 </p>
 
@@ -133,7 +133,7 @@ The browser will instantly finalize the file save. The download card will now up
 After launching the downloaded setup file, Windows Defender SmartScreen will launch a solid blue warning window stating *"Windows protected your PC"*. Click on the small, underlined **"More info"** link under the main paragraph text.
 
 <p align="center">
-  <img src="./assets/screenshots/wstep1.png" alt="Step 8: Click More info" width="550" />
+  <img src="./assets/screenshots/wstep1.jpg" alt="Step 8: Click More info" width="550" />
   <br><em>Step 8: Click the 'More info' link on the blue security window to show hidden options.</em>
 </p>
 
@@ -141,7 +141,7 @@ After launching the downloaded setup file, Windows Defender SmartScreen will lau
 The blue window will expand to reveal the application metadata (App Name & Unknown publisher). Click on the newly revealed **"Run anyway"** button at the bottom of the window to launch the installation wizard.
 
 <p align="center">
-  <img src="./assets/screenshots/wstep2.png" alt="Step 9: Click Run anyway" width="550" />
+  <img src="./assets/screenshots/wstep2.jpg" alt="Step 9: Click Run anyway" width="550" />
   <br><em>Step 9: Click 'Run anyway' to launch the TechyPad installer successfully.</em>
 </p>
 
