@@ -69,7 +69,7 @@ Here is our visual **9-step guide** to safely download, bypass protection, and r
 ### 🌐 Phase 1: Browser Download Bypasses (Chrome / Edge)
 
 #### **Step 1: Start the Download**
-Click on the download link in the official [Releases](https://github.com/Jnyananjan/techy_pad/releases) section. Your browser (Chrome or Edge) will start downloading `TechyPad-Setup-1.0.0.exe`. Wait for the download progress bar to complete.
+Click on the download link in the official [Releases](https://github.com/Jnyananjan/techy_pad/releases) section. Your browser (Chrome or Edge) will start downloading `TechyPad-Setup.exe`. Wait for the download progress bar to complete.
 
 <p align="center">
   <img src="./assets/screenshots/step1.jpg" alt="Step 1: Start the Download" width="600" />
@@ -78,7 +78,7 @@ Click on the download link in the official [Releases](https://github.com/Jnyanan
 
 #### **Step 2: Note the Browser Block**
 Once completed, the browser will pause the save process and flag the file as uncommonly downloaded.
-> ⚠️ *`TechyPad-Setup-1.0.0.exe isn't commonly downloaded. Make sure you trust TechyPad-Setup-1.0.0.exe before you open it.`*
+> ⚠️ *`TechyPad-Setup.exe isn't commonly downloaded. Make sure you trust TechyPad-Setup.exe before you open it.`*
 
 <p align="center">
   <img src="./assets/screenshots/step2.jpg" alt="Step 2: Note the Browser Block" width="600" />
@@ -102,7 +102,7 @@ In the dropdown options menu (`Delete`, `Keep`, `Report this file as safe`, `Lea
 </p>
 
 #### **Step 5: The Safety Warnings Dialog**
-A secondary safety warning dialogue box will appear with the header *"Make sure you trust TechyPad-Setup-1.0.0.exe before you open it"*. It states that Microsoft Defender SmartScreen couldn't verify the file and shows details like "Publisher: Unknown", next to a closed white **"Delete"** button with a down arrow.
+A secondary safety warning dialogue box will appear with the header *"Make sure you trust TechyPad-Setup.exe before you open it"*. It states that Microsoft Defender SmartScreen couldn't verify the file and shows details like "Publisher: Unknown", next to a closed white **"Delete"** button with a down arrow.
 
 <p align="center">
   <img src="./assets/screenshots/step5.jpg" alt="Step 5: The Safety Warnings Dialog" width="600" />
@@ -118,7 +118,7 @@ Click the small **down arrow (`v`)** situated on the right side of the white **"
 </p>
 
 #### **Step 7: Finalize and Open File**
-The browser will instantly finalize the file save. The download card will now update and show **"Open file"** directly below `TechyPad-Setup-1.0.0.exe`. Click on **"Open file"** to launch the installer on your computer!
+The browser will instantly finalize the file save. The download card will now update and show **"Open file"** directly below `TechyPad-Setup.exe`. Click on **"Open file"** to launch the installer on your computer!
 
 <p align="center">
   <img src="./assets/screenshots/step7.jpg" alt="Step 7: Finalize and Open File" width="600" />
@@ -158,7 +158,7 @@ Select the setup method that best suits your workflow:
 * Installs standard desktop and start-menu shortcuts.
 * Automatically registers clean file links.
 * **Steps**:
-  1. Complete the browser and SmartScreen bypasses detailed above to launch `TechyPad-Setup-1.0.0.exe`.
+  1. Complete the browser and SmartScreen bypasses detailed above to launch `TechyPad-Setup.exe`.
   2. Follow the on-screen installation wizard path.
   3. Launch **TechyPad** directly from your Desktop or Start Menu!
   
@@ -193,19 +193,10 @@ The companion app features a premium background updater. If you are connected to
 
 1. Open the **TechyPad Desktop Companion Software**.
 2. Navigate to the **Firmware Update** control panel.
-3. Click **Browse** and select the downloaded encrypted firmware file (`.bin`).
+3. Click **Browse** and select the downloaded encrypted firmware file (`.enc`).
 4. Click **Flash Firmware**.
 5. **Do not disconnect your device** while the progress bar runs. Flashing completes in under 10 seconds.
 6. Once finished, TechyPad will restart automatically and boot into your fresh software!
-
----
-
-## 🛡️ Security & IP Architecture
-
-To maintain standard protection over hardware intellectual property and defend against unauthorized code execution, TechyPad employs a robust security model:
-* **AES-256 Firmware Encryption**: Distributed `.bin` update files are cryptographically encrypted.
-* **On-the-Fly Decryption**: The TechyPad Desktop Application stores private decryption key standards and decrypts firmware packets in memory immediately before serial transmission to the ESP32-S3 chip.
-* **Binary Obfuscation**: Desktop binaries are secured to prevent unauthorized tampering or reverse-engineering.
 
 ---
 
